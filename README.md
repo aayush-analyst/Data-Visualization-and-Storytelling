@@ -5,7 +5,7 @@ Power BI dashboard analyzing Global Superstore sales, profit, and product trends
 - Power BI
 - Global Superstore Dataset
 
-## First Page
+## First Page: Dashboard 
 
 ##  Key Metrics Displayed: 
 "Card(new)" visual used to display this metrics.
@@ -33,7 +33,7 @@ Power BI dashboard analyzing Global Superstore sales, profit, and product trends
 <img width="1543" height="862" alt="Intern first page" src="https://github.com/user-attachments/assets/77c8ef61-7f48-4fc9-acc0-2d10e16ed049" />
 
 
-## Second Page
+## Second Page: Comparison report
 
 ## Key Metrics Displayed:
 "Card(new)" visual used to display this metrics.
@@ -53,7 +53,7 @@ Power BI dashboard analyzing Global Superstore sales, profit, and product trends
   2. Month : "Button Slicer" is used to display month in grid form.
 
 
-## Dashboard Screenshot:
+## Comparison reportScreenshot:
 <img width="1550" height="862" alt="Second page" src="https://github.com/user-attachments/assets/419c3d1a-fbe5-4f81-bdfc-556d95494558" />
 
 
