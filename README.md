@@ -53,7 +53,7 @@ Power BI dashboard analyzing Global Superstore sales, profit, and product trends
   2. Month : "Button Slicer" is used to display month in grid form.
 
 
-## Comparison reportScreenshot:
+## Comparison Report Screenshot:
 <img width="1550" height="862" alt="Second page" src="https://github.com/user-attachments/assets/419c3d1a-fbe5-4f81-bdfc-556d95494558" />
 
 
