@@ -18,7 +18,7 @@ Power BI dashboard analyzing Global Superstore sales, profit, and product trends
 - Profit by Month : "Line chart" visual used to display this profit by month.
 - Total Sales by Segment : "Donut chart" is used to display the percentage of each segment.
 - Total Sales by Ship Mode : "Clustered bar chart" is used to show the ship mode. 
-- Top 10 Products by Sales : "Clustered colmun chart" is used to show the top 10 products by sales using Top N filter 
+- Top 10 Products by Sales : "Clustered column chart" is used to show the top 10 products by sales using Top N filter 
 - Total Sales by Country & City : "Filled Map" visual is used to display every country and city depend on the sales and putted the parameter.
 - Interactive filters: Segment, Region, Ship Mode
 
@@ -47,7 +47,7 @@ Power BI dashboard analyzing Global Superstore sales, profit, and product trends
   1. In this visual we have recorded the comparison of sales between last year sales and this year sales using DAX measures :-
      "Orders data last year = CALCULATE([Total Sales],SAMEPERIODLASTYEAR(Orders[Order Date].[Date]))"
   2. By using "Clustered column chart" we have recorded comparison of sales was their in last year and this year.
-  3. Table format also show the comparison of sales quaterly between year and previous year. 
+  3. Table format also show the comparison of sales quarterly between year and previous year. 
 - Interactive filters:
   1. Year, Country, Category, Order Priority: "Slicer" are uesd to make the complete dashboard interactive and record the valuable insights.
   2. Month : "Button Slicer" is used to display month in grid form.
